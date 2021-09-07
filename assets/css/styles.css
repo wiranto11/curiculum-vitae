@@ -358,12 +358,12 @@ img {
 }
 
 .home__img {
-  width: 140px;
-  height: 140px;
+  width: 240px;
+  height: 240px;
   border-radius: 50%;
   justify-self: center;
   margin-bottom: var(--mb-1);
-  filter: grayscale(100%);
+  /* filter: grayscale(100%); */
 }
 
 .home__title {
